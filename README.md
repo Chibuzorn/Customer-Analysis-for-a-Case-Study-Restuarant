@@ -7,7 +7,8 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
 ## **Tools for Analysis**
-Postgresql for the Exploratory Data Analysis
+- Visual Paradigm for Entity Relationship Diagram(ERD)
+- Postgresql for the Exploratory Data Analysis
 
 ## **Problem Statement**
 - Danny does not know what to do with the data he gets from his customers, so they keep coming back.
@@ -15,3 +16,8 @@ Postgresql for the Exploratory Data Analysis
 - Danny needs some basic datasets to be generated for him, so he can inspect them without the use of sql.
 - Danny has provided a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for  to write fully functioning SQL queries to   help him answer his questions!
 - Danny has shared with you 3 key datasets for this case study: sales, menu and members
+
+## **Entity Relationship Diagram (ERD)**
+[ER Diagram](Entity Relationship Diagram1.jpg)
+
+![Entity Relationship Diagram1](https://github.com/Chibuzorn/Customer-Analysis-for-a-Case-Study-Restuarant/assets/150259239/79d5e821-d4ff-42b5-ae00-0f4e42ccfa88)
