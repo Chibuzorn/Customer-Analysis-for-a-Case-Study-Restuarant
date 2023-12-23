@@ -38,3 +38,9 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 - What is the total items and amount spent for each member before they became a member?
 - If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 - In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+## **Insights**
+- Customer B is the most frequent visitor with 6 visits in Jan 2021.
+- Danny’s Diner’s most popular item is ramen, followed by curry and sushi.
+- Customer A loves ramen, Customer C loves only ramen whereas Customer B seems to enjoy sushi, curry and ramen equally.
+The last item ordered by Customers A and B before they became members are sushi and curry. Does it mean both of these items are the deciding factor?
