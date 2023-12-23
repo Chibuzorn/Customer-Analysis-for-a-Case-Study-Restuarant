@@ -21,3 +21,20 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 [ER Diagram](Entity Relationship Diagram1.jpg)
 
 ![Entity Relationship Diagram1](https://github.com/Chibuzorn/Customer-Analysis-for-a-Case-Study-Restuarant/assets/150259239/79d5e821-d4ff-42b5-ae00-0f4e42ccfa88)
+
+## **Skills Applied**
+- Aggregations
+- JOINs
+- CTEs
+- scripts to generate basic reports 
+## **Explortory Data Analysis**
+- What is the total amount each customer spent at the restaurant?
+- How many days has each customer visited the restaurant?
+- What was the first item from the menu purchased by each customer?
+- What is the most purchased item on the menu and how many times was it purchased by all customers?
+- Which item was the most popular for each customer?
+- Which item was purchased first by the customer after they became a member?
+- Which item was purchased just before the customer became a member?
+- What is the total items and amount spent for each member before they became a member?
+- If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+- In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
